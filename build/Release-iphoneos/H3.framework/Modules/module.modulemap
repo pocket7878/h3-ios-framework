@@ -1,0 +1,6 @@
+framework module H3 {
+    umbrella header "h3api.h"
+
+    export *
+    module * { export * }
+}
