@@ -1,8 +1,9 @@
 //
 //  AppDelegate.swift
-//  h3SwiftTestApp
+//  H3SwiftTestApp
 //
-//  Created by 十亀眞怜 on 2018/07/27.
+//  Created by 十亀眞怜 on 2018/07/31.
+//  Copyright © 2018年 Pocket7878. All rights reserved.
 //
 
 import UIKit
